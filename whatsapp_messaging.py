@@ -10,7 +10,7 @@ def send_msg():
     message = client.messages.create(
         from_='whatsapp:+1 415 523 8886 ',
         body='You are that woman who transformed my imperfections into perfections, just by the touch of your love. Love you my dearest wife! 😘💋❤️',
-        to='whatsapp:+8801860989781'
+        to='whatsapp:+8801995****90'
     )
     print(message.sid)
 
